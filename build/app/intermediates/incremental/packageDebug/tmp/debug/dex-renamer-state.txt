@@ -1,0 +1,4 @@
+#Tue May 04 19:49:37 IST 2021
+base.0=D\:\\Project POCs\\weatherUI\\weather_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
